@@ -1,0 +1,4 @@
+Customer, IPAddress, Hostname, MACAddress, OpenPort, OperatingSystem, TeamActionable, ServerRole
+Test, 1.1.1.1, AAAAA, AC-F2-82-9B-EF-90, 443, Windows	Server, DNS
+Test1, 2.2.2.2, BBBBB, F8-24-9A-F6-7B-EE, 80, Cisco	Network, Firewall
+Test2, 3.3.3.3, CCCCC, FE-A3-84-E2-A7-57, 22, Linux	Server, DC
