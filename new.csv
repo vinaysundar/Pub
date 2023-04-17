@@ -1,4 +1,4 @@
 Customer,IPAddress,Hostname,MACAddress,OpenPort,OperatingSystem,TeamActionable
-Test,1.1.1.1,AAAAA,AC-F2-82-9B-EF-90,443,WindowsServer
-Test1,2.2.2.2,BBBBB,F8-24-9A-F6-7B-EE,80,CiscoNetwork
-Test2,3.3.3.3,CCCCC,FE-A3-84-E2-A7-57,22,LinuxServer
+Test,1.1.1.1,AAAAA,AC-F2-82-9B-EF-90,443,Windows 7,WindowsServer
+Test1,2.2.2.2,BBBBB,F8-24-9A-F6-7B-EE,80,Linux Distro 8,CiscoNetwork
+Test2,3.3.3.3,CCCCC,FE-A3-84-E2-A7-57,22,Oracle Linux 5,LinuxServer
